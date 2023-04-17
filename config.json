@@ -11,7 +11,7 @@
           "settings":{
               "clients":[
                   {
-                      "id":"99a2c919-910d-4e7f-b8f1-e6638fd6ba5b",
+                      "id":"7b067b9f-5dba-4ba4-876d-4799a2083bdd",
                       "flow":"xtls-rprx-direct"
                   }
               ],
@@ -21,19 +21,19 @@
                       "dest":3001
                   },
                   {
-                      "path":"/99a2c919-910d-4e7f-b8f1-e6638fd6ba5b-vless",
+                      "path":"/7b067b9f-5dba-4ba4-876d-4799a2083bdd-vless",
                       "dest":3002
                   },
                   {
-                      "path":"/99a2c919-910d-4e7f-b8f1-e6638fd6ba5b-vmess",
+                      "path":"/7b067b9f-5dba-4ba4-876d-4799a2083bdd-vmess",
                       "dest":3003
                   },
                   {
-                      "path":"/99a2c919-910d-4e7f-b8f1-e6638fd6ba5b-trojan",
+                      "path":"/7b067b9f-5dba-4ba4-876d-4799a2083bdd-trojan",
                       "dest":3004
                   },
                   {
-                      "path":"/99a2c919-910d-4e7f-b8f1-e6638fd6ba5b-shadowsocks",
+                      "path":"/7b067b9f-5dba-4ba4-876d-4799a2083bdd-shadowsocks",
                       "dest":3005
                   }
               ]
@@ -49,7 +49,7 @@
           "settings":{
               "clients":[
                   {
-                      "id":"99a2c919-910d-4e7f-b8f1-e6638fd6ba5b"
+                      "id":"7b067b9f-5dba-4ba4-876d-4799a2083bdd"
                   }
               ],
               "decryption":"none"
@@ -66,7 +66,7 @@
           "settings":{
               "clients":[
                   {
-                      "id":"99a2c919-910d-4e7f-b8f1-e6638fd6ba5b",
+                      "id":"7b067b9f-5dba-4ba4-876d-4799a2083bdd",
                       "level":0,
                       "email":"argo@xray"
                   }
@@ -77,7 +77,7 @@
               "network":"ws",
               "security":"none",
               "wsSettings":{
-                  "path":"/99a2c919-910d-4e7f-b8f1-e6638fd6ba5b-vless"
+                  "path":"/7b067b9f-5dba-4ba4-876d-4799a2083bdd-vless"
               }
           },
           "sniffing":{
@@ -97,7 +97,7 @@
           "settings":{
               "clients":[
                   {
-                      "id":"99a2c919-910d-4e7f-b8f1-e6638fd6ba5b",
+                      "id":"7b067b9f-5dba-4ba4-876d-4799a2083bdd",
                       "alterId":0
                   }
               ]
@@ -105,7 +105,7 @@
           "streamSettings":{
               "network":"ws",
               "wsSettings":{
-                  "path":"/99a2c919-910d-4e7f-b8f1-e6638fd6ba5b-vmess"
+                  "path":"/7b067b9f-5dba-4ba4-876d-4799a2083bdd-vmess"
               }
           },
           "sniffing":{
@@ -125,7 +125,7 @@
           "settings":{
               "clients":[
                   {
-                      "password":"99a2c919-910d-4e7f-b8f1-e6638fd6ba5b"
+                      "password":"7b067b9f-5dba-4ba4-876d-4799a2083bdd"
                   }
               ]
           },
@@ -133,7 +133,7 @@
               "network":"ws",
               "security":"none",
               "wsSettings":{
-                  "path":"/99a2c919-910d-4e7f-b8f1-e6638fd6ba5b-trojan"
+                  "path":"/7b067b9f-5dba-4ba4-876d-4799a2083bdd-trojan"
               }
           },
           "sniffing":{
@@ -154,7 +154,7 @@
               "clients":[
                   {
                       "method":"chacha20-ietf-poly1305",
-                      "password":"99a2c919-910d-4e7f-b8f1-e6638fd6ba5b"
+                      "password":"7b067b9f-5dba-4ba4-876d-4799a2083bdd"
                   }
               ],
               "decryption":"none"
@@ -162,7 +162,7 @@
           "streamSettings":{
               "network":"ws",
               "wsSettings":{
-                  "path":"/99a2c919-910d-4e7f-b8f1-e6638fd6ba5b-shadowsocks"
+                  "path":"/7b067b9f-5dba-4ba4-876d-4799a2083bdd-shadowsocks"
               }
           },
           "sniffing":{
